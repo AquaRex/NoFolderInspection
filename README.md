@@ -5,6 +5,13 @@
 No Folder Inspection, prevents the Inspector from showing folders when they are selected by locking the inspector before it is updated, unlocking again right after selection has occurred.
 <br>
 
+<h1>How to use</h1>
+It can be toggled on / off from the Tools dropdown<br>
+Tools -> NoFolderInspection
+<br><br>
+
+
+
 <h1>Asset Store</h1>
 
 This can also be downloaded for free from the Unity Asset Store:
