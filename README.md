@@ -16,7 +16,7 @@ Tools -> NoFolderInspection
 
 This can also be downloaded for free from the Unity Asset Store:
 <br><br>
-#URL#
+[NoFolderInspection - Unity Asset Store](https://assetstore.unity.com/packages/tools/utilities/no-folder-inspection-305876)
 
 <br><br>
 
